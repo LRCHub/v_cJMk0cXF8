@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕は愛を知らない (Preview)",
+  "base_artist": "wapiti",
+  "createdAt": "2026-03-06T11:55:06.073400Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕は愛を知らない",
+      "artist": "wapiti",
+      "has_synced": false,
+      "path": "select/pl_01_僕は愛を知らない_wapiti.txt"
+    }
+  ]
+}
